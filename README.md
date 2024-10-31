@@ -46,6 +46,6 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Pukka](https://wiki.bloodontheclocktower.com/images/f/f4/Icon_pukka.png) | **Pukka** | Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.
+![Yaggababble](https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png) | **Yaggababble** | You start knowing a secret phrase. For each time you said it publicly today, a player might die.
 ![Imp](https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png) | **Imp** | Each night\*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.
 ![Po](https://wiki.bloodontheclocktower.com/images/b/b2/Icon_po.png) | **Po** | Each night\*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.
