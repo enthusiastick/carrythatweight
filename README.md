@@ -36,7 +36,6 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Godfather](https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png) | **Godfather** | You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]
 ![Poisoner](https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
 ![Summoner](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png) | **Summoner** | You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]
 ![Boffin](https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png) | **Boffin** | The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.
